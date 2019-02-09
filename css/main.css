@@ -1,0 +1,27 @@
+/* 
+    Created on : Feb 9, 2019, 3:52:28 PM
+    Author     : M Bret Blackford
+*/
+
+#main-section {
+    margin: 10%;
+    padding-bottom: 5%;
+}
+
+p {
+    color: lightgoldenrodyellow;
+}
+
+h2, #quote {
+    text-align: center;
+    color: white;
+}
+
+img {
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+html {background-color: black}
